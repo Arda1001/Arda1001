@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and Programmer
 --------------------------
 
-I am currently studying Computer Science at university and I hope to be a software engineer in the future.
+I am a Computer Science graduate and I am currently working as a Graduate Consultant.
 
 *   🌍  I'm based in London
 *   ✉️  You can contact me at [ardaordu03@gmail.com](mailto:ardaordu03@gmail.com)
