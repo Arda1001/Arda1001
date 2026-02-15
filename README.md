@@ -7,7 +7,7 @@ Test Engineer and Programmer
 I am a Computer Science graduate and I am currently working as a Test Engineer.
 
 *   🌍  I'm based in London
-*   ✉️  You can contact me at [ardaordu03@gmail.com](mailto:ardaordu03@gmail.com)
+*   💼  Test Engineer at CACI
 *   🤝  I'm open to collaborating on Interesting Projects
 ### Skills
 <p align="left">
