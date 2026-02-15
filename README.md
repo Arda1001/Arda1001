@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arda Ordu
 =================================================================================================================================
 
-Test Emgineer and Programmer
+Test Engineer and Programmer
 --------------------------
 
 I am a Computer Science graduate and I am currently working as a Test Engineer.
