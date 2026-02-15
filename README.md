@@ -33,4 +33,6 @@ I am a Computer Science graduate and I am currently working as a Test Engineer.
 
 ## 📫 **Contact**
 - Email: ardaordu03@gmail.com  
-- LinkedIn: [Arda Ordu](https://www.linkedin.com/in/arda-ordu/) 
+- LinkedIn: [Arda Ordu](https://www.linkedin.com/in/arda-ordu/)
+
+![GIF](https://i.pinimg.com/originals/df/05/a1/df05a177c8f9311bd7439fe26d9a7acd.gif)
