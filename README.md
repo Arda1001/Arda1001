@@ -30,3 +30,7 @@ I am a Computer Science graduate and I am currently working as a Test Engineer.
 <a href="https://www.github.com/Arda1001" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 
 <a href="https://www.linkedin.com/in/arda-ordu-0b683213a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+## 📫 **Contact**
+- Email: ardaordu03@gmail.com  
+- LinkedIn: [Arda Ordu](https://www.linkedin.com/in/arda-ordu/) 
